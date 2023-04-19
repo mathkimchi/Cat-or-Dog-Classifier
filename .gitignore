@@ -1,0 +1,4 @@
+*.jpg
+*.PNG
+models/*
+cat-vs-dog-data/*
